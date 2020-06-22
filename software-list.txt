@@ -1,0 +1,14 @@
+video
+    simplescreenrecorder
+    vlc - viewer
+    peek - animated gifs
+
+IDE
+    intellij 
+        
+    vs code
+        liveshare
+    postman
+    mongodb-compass
+    pgcli
+
